@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
@@ -28,5 +29,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
