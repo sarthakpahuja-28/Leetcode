@@ -1,14 +1,14 @@
 class MyStack {
-     int count=0;
-     Queue <Integer> que;
+    Queue <Integer> que;
     public MyStack() {
      que =new LinkedList <>();
     }
     
     public void push(int x) {
-        count++;
+        
         que.offer(x);
-        for(int i=0;i<count-1;i++){
+        int size=que.size();
+        for(int i=0;i<size-1;i++){
             int y=que.peek();
             que.poll();
             que.offer(y);
@@ -17,7 +17,6 @@ class MyStack {
     }
     
     public int pop() {
-        count--;
         return que.poll();
         
     }
