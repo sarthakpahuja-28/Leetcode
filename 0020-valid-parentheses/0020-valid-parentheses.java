@@ -1,34 +1,39 @@
 class Solution {
-    public boolean same(char a,char b){
-          if(a=='(' && b== ')') return true;
-           if(a=='[' && b== ']') return true;
-            if(a=='{' && b== '}') return true;
-            return false;
-    }
     public boolean isValid(String s) {
         if(s.length()%2!=0){
             return false;
         }
         Stack <Character> st=new Stack<>();
-        char[] chars = s.toCharArray();
-        for(int i=0;i<chars.length;i++){
-            if(chars[i]=='(' || chars[i]=='[' || chars[i]=='{'){
-                st.push(chars[i]);
+        for(int i=0;i<s.length();i++){
+            char a=s.charAt(i);
+            if(a=='(' || a=='{' || a=='['){
+                  st.push(a);
             }
-            else{
-                  if(st.isEmpty()){
-                    return false;
-                  }
-                  char top=st.peek();
-                  if(same(top,chars[i])){
-                   st.pop();
-                }
-                else{
+            else{ 
+                if(st.isEmpty()){
                     return false;
                 }
+               if(a==')'){
+                   if(st.peek()!='('){
+                    return false;
+                   }
+               }
+               else if(a=='}'){
+                   if(st.peek()!='{'){
+                    return false;
+                   }
+               }
+            else if(a==']'){
+                   if(st.peek()!='['){
+                    return false;
+                   }
+               }
+               st.pop();
             }
-
         }
-        return st.isEmpty();
+        if(st.isEmpty())
+        return true;
+        else
+        return false;
     }
 }
