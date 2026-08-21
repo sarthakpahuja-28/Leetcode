@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0049-group-anagrams) |
 ## Bracket Sequences
 |  |
 | ------- |
