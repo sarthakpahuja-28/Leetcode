@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0049-group-anagrams) |
+| [0389-find-the-difference](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0771-jewels-and-stones) |
 ## Bracket Sequences
 |  |
