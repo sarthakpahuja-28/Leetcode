@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0268-missing-number) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sarthakpahuja-28/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search
 |  |
