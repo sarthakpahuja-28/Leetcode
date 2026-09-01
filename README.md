@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Math
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Bracket Sequences
 |  |
 | ------- |
