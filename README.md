@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Design
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Bracket Sequences
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Counting
 |  |
