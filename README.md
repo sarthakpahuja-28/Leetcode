@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0268-missing-number) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0383-ransom-note) |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0459-repeated-substring-pattern) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
