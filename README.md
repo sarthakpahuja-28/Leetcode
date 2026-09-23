@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2574-left-and-right-sum-differences](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
@@ -198,4 +199,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
