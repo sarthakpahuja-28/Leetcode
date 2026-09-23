@@ -4,7 +4,7 @@ class Solution {
         int [] pre = new int[size];
         int [] suf=new int[size];
         pre[0]=nums[0];
-        suf[nums.length-1]=nums[size-1];
+        suf[size-1]=nums[size-1];
         for(int i=1;i<size;i++){
             pre[i]=pre[i-1]+nums[i];
             suf[size-i-1]=suf[size-i]+nums[size-i-1];
