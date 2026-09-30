@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0075-sort-colors) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Quicksort
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0049-group-anagrams) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0459-repeated-substring-pattern) |
