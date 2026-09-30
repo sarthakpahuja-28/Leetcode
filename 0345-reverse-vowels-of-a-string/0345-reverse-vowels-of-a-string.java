@@ -8,24 +8,31 @@ class Solution {
     }
 
     public String reverseVowels(String s) {
-        Stack <Character> st=new Stack<>();
-        int size = s.length();
-        for(int i=0;i<size;i++){
-            char a=s.charAt(i);
-            if(isVowel(a)){
-            st.push(a);
-            }
+     int left=0;
+     int right=s.length()-1;
+     char [] arr=s.toCharArray();
+     while(left<right){
+        char a=arr[left];
+        char b=arr[right];
+        if(isVowel(a) && isVowel(b)){
+            char temp=a;
+            arr[left]=b;
+            arr[right]=temp;
+            left++;
+            right--;
         }
-        String x = "";
-        for(int i=0;i<size;i++){
-            char a=s.charAt(i);
-            if(isVowel(a)){
-                x=x+st.pop();
-            }
-            else{
-                x=x+a;
-            }
+        else if(isVowel(a) && !isVowel(b)){
+            right--;
         }
-        return x;
+        else if(!isVowel(a) && isVowel(b)){
+            left++;
+        }
+        else{
+            left++;
+            right--;
+        }
+     }
+     String x=new String(arr);
+     return x;
    }
 }
