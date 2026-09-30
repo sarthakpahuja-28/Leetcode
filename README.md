@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0724-find-pivot-index) |
+| [0804-unique-morse-code-words](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [1122-relative-sort-array](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1122-relative-sort-array](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1154-day-of-the-year](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1189-maximum-number-of-balloons) |
