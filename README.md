@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2574-left-and-right-sum-differences](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sarthakpahuja-28/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3842-toggle-light-bulbs](https://github.com/sarthakpahuja-28/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3842-toggle-light-bulbs](https://github.com/sarthakpahuja-28/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3842-toggle-light-bulbs](https://github.com/sarthakpahuja-28/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3498-reverse-degree-of-a-string](https://github.com/sarthakpahuja-28/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3842-toggle-light-bulbs](https://github.com/sarthakpahuja-28/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Counting
 |  |
 | ------- |
