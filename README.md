@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2574-left-and-right-sum-differences](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sarthakpahuja-28/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3745-maximize-expression-of-three-elements](https://github.com/sarthakpahuja-28/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3842-toggle-light-bulbs](https://github.com/sarthakpahuja-28/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Hash Table
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3536-maximum-product-of-two-digits](https://github.com/sarthakpahuja-28/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3745-maximize-expression-of-three-elements](https://github.com/sarthakpahuja-28/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3842-toggle-light-bulbs](https://github.com/sarthakpahuja-28/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Two Pointers
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sarthakpahuja-28/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/sarthakpahuja-28/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Stack
 |  |
 | ------- |
@@ -260,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [3745-maximize-expression-of-three-elements](https://github.com/sarthakpahuja-28/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 <!---LeetCode Topics End-->
