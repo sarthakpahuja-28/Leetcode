@@ -1,16 +1,25 @@
 class Solution {
     public int maxProduct(int n) {
-        // Stack <Integer> st=new Stack<>();
-        // while(n>0){
-        //     st.push(n%10);
-        //     n=n/10;
-        // }
-        String x=n+"";
-        char [] arr=x.toCharArray();
-        if(arr.length==1) return arr[0]-'0';
-        Arrays.sort(arr);
-        int y=(arr[arr.length-1]-'0')*(arr[arr.length-2]-'0');
-        return y;
+        int max1=0;
+        int max2=0;
+        while(n>0){
+            int x=n%10;
+            if(x>max1){
+                max2=max1;
+                max1=x;  
+            }
+            else if(x>max2){
+                max2=x;
+            }
+            n=n/10;
+        }
+        return max1*max2;
+        // String x=n+"";
+        // char [] arr=x.toCharArray();
+        // if(arr.length==1) return arr[0]-'0';
+        // Arrays.sort(arr);
+        // int y=(arr[arr.length-1]-'0')*(arr[arr.length-2]-'0');
+        // return y;
         
     }
 }
