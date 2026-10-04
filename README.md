@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3842-toggle-light-bulbs](https://github.com/sarthakpahuja-28/Leetcode/tree/master/3842-toggle-light-bulbs) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1189-maximum-number-of-balloons](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Dynamic Programming
 |  |
