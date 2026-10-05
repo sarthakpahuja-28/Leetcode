@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [3110-score-of-a-string](https://github.com/sarthakpahuja-28/Leetcode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/sarthakpahuja-28/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3813-vowel-consonant-score](https://github.com/sarthakpahuja-28/Leetcode/tree/master/3813-vowel-consonant-score) |
 ## Bracket Sequences
