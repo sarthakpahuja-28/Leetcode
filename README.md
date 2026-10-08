@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0791-custom-sort-string) |
 | [0804-unique-morse-code-words](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0389-find-the-difference) |
+| [0791-custom-sort-string](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0791-custom-sort-string) |
 | [1122-relative-sort-array](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0791-custom-sort-string) |
 | [0804-unique-morse-code-words](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
