@@ -8,8 +8,10 @@ class Solution {
            char a=s.charAt(i);
            if(a=='(' && depth==0) idx=i;
            if(a=='(') depth++;
-           else if(a==')')depth--;
+           else if(a==')'){
+            depth--;
            if(depth==0) y+=s.substring(idx+1,i);
+           }
         }
         return y;
       
