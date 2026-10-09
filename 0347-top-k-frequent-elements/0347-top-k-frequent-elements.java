@@ -5,7 +5,7 @@ class Solution {
             if(!map.containsKey(nums[i]))map.put(nums[i],1);
             else map.put(nums[i],map.get(nums[i])+1);
         }
-        List<Integer> list = new ArrayList<>(map.keySet());
+        ArrayList<Integer> list = new ArrayList<>(map.keySet());
 
        
         Collections.sort(list, (a, b) -> map.get(b) - map.get(a));
