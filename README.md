@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0724-find-pivot-index) |
 | [0804-unique-morse-code-words](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0819-most-common-word) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1154-day-of-the-year](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1154-day-of-the-year) |
 | [2485-find-the-pivot-integer](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0791-custom-sort-string](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0791-custom-sort-string) |
 | [1122-relative-sort-array](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1331-rank-transform-of-an-array) |
