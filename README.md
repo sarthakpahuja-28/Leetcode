@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1154-day-of-the-year](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1154-day-of-the-year) |
 | [2485-find-the-pivot-integer](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
