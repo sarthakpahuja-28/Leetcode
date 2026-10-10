@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1154-day-of-the-year](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1154-day-of-the-year) |
+| [1688-count-of-matches-in-tournament](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2485-find-the-pivot-integer](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sarthakpahuja-28/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3498-reverse-degree-of-a-string](https://github.com/sarthakpahuja-28/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
