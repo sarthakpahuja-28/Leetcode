@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0791-custom-sort-string) |
 | [0804-unique-morse-code-words](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0804-unique-morse-code-words) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0567-permutation-in-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0917-reverse-only-letters) |
 | [2000-reverse-prefix-of-word](https://github.com/sarthakpahuja-28/Leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0791-custom-sort-string) |
 | [0804-unique-morse-code-words](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0804-unique-morse-code-words) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/sarthakpahuja-28/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sarthakpahuja-28/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
